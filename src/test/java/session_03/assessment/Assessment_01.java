@@ -12,5 +12,15 @@ public class Assessment_01 {
 
     public static void main(String[] args) {
 
+
+        // 1. Open URL: https://www.saucedemo.com/v1/
+
+        // 2. Enter Valid username: standard_user
+
+        // 3. Enter Valid Password: secret_sauce
+
+        // 4. Click On Login
+
+
     }
 }
